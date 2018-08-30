@@ -15,5 +15,7 @@
       <en>Hi, how is it going ?</en>
       <fr>Salut, ça farte ?</fr>
     </message>
+    <url_button>false</url_button>
+    <url></url>
   </Message>
 </RJ>
