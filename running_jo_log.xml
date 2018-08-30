@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VersionInfo>
   <current>1.6.1</current>
-  <changelog>Added a message when an update is available</changelog>
+  <changelog>
+    <en>Added a message when an update is available</en>
+    <fr>Ajout d'un message lorsqu'une mise à jour est disponible</fr>
+  </changelog>
+</VersionInfo>
+
+<Message>
+  <display>true</display>
+  <message>
+    <en>Hi, how is it going ?</en>
+    <fr>Salut, ça farte ?</fr>
+  </message>
 </VersionInfo>
