@@ -2,10 +2,18 @@
 
 <RJ>
   <version_info>
-    <current>1.6.1</current>
+    <current>1.7.0</current>
     <changelog>
       <en>Added a message when an update is available</en>
-      <fr>Ajout d'un message lorsqu'une mise à jour est disponible</fr>
+      <fr>- Possibilité de restaurer ses scores via Play Games
+- Ajouts de nouveaux contrôles
+- Possibilité de désactiver les chutes du perso
+- Avec le bonus Passe-Muraille, les blocs traversables sont 
+maintenant transparents
+- Ajout d'une troisième projection de caméra 
+- Possibilité de regarder une pub vidéo contre 400 coins
+- D'autres nouveautés à découvrir !
+      </fr>
     </changelog>
   </version_info>
 
