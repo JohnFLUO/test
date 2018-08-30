@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VersionInfo>
   <current>1.7.0</current>
-  <changelog>Added new version log and updated logger</changelog>
+  <changelog>Added a message when an update is available</changelog>
 </VersionInfo>
