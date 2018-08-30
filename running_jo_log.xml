@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <RJ>
-  <VersionInfo>
+  <version_info>
     <current>1.6.1</current>
     <changelog>
       <en>Added a message when an update is available</en>
       <fr>Ajout d'un message lorsqu'une mise à jour est disponible</fr>
     </changelog>
-  </VersionInfo>
+  </version_info>
 
-  <Message>
+  <message>
     <display>true</display>
-    <message>
+    <id>0001</id>
+    <content>
       <en>Hi, how is it going ?</en>
       <fr>Salut, ça farte ?</fr>
-    </message>
+    </content>
     <url_button>false</url_button>
     <url></url>
-  </Message>
+  </message>
 </RJ>
