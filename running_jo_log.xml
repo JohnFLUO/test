@@ -28,7 +28,7 @@ maintenant transparents
   </version_info>
 
   <message>
-    <display>true</display>
+    <display>false</display>
     <id>0001</id>
     <headline>
       <en>Guess what?</en>
