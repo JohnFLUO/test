@@ -4,8 +4,18 @@
   <version_info>
     <current>1.7.0</current>
     <changelog>
-      <en>Added a message when an update is available</en>
-      <fr>- Possibilité de restaurer ses scores via Play Games
+      <en>
+- Possibility to restore scores using Play Games
+- Added new controls and corrected joystick bug
+- Possibility to disable falling
+- Added transparency for "Wall-crossing" bonus
+- Added a third camera projection
+- Possibility to watch a video ad in order to earn 400 coins
+- Added an effect with "Repulsion" bonus
+- Updated "Help & tips" menu
+      </en>
+      <fr>
+- Possibilité de restaurer ses scores via Play Games
 - Ajouts de nouveaux contrôles
 - Possibilité de désactiver les chutes du perso
 - Avec le bonus Passe-Muraille, les blocs traversables sont 
@@ -20,9 +30,13 @@ maintenant transparents
   <message>
     <display>true</display>
     <id>0001</id>
+    <headline>
+      <en>Guess what ?</en>
+      <fr>Vennez tester le nouveau jeu d'Anacoluth</fr>
+    </headline>
     <content>
-      <en>Hi, how is it going ?</en>
-      <fr>Salut, ça farte ?</fr>
+      <en>Everything is goins well!</en>
+      <fr>Beaucoup d'aventure, de suspens, et de fun !</fr>
     </content>
     <url_button>false</url_button>
     <url></url>
