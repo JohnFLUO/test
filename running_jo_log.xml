@@ -5,19 +5,19 @@
     <current>1.7.0</current>
     <changelog>
       <en>
-
 - Added trails, available in the shop
-- Added snowfalls on some platforms
+- Added biomes and new platforms
 - Added an available update alert
+- Modified character's physics
 - Modified main menu
 - Clicking on a banner ad will give you 50 coins
 - Fixed bugs   
       </en>
-      <fr>
-        
+      <fr> 
 - Ajout de trails, disponibles dans la boutique
-- Ajout de neige sur certaines plateformes
+- Ajout de biomes et de nouvelles plateformes
 - Ajout d'un système d'annonce de mise à jour
+- Modification de la physique du perso
 - Mise à jour du menu
 - Cliquer sur une pub (banière) rapporte 50 coins
 - Correction de bugs       
